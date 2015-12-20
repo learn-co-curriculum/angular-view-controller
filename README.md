@@ -1,4 +1,4 @@
-# An Angular Controller and its Template
+# Angular Controllers & Templates
 
 ## Objectives
 
