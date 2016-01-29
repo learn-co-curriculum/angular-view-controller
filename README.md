@@ -20,3 +20,5 @@ own Angular app.
 
 We're going to extend from our initialized application and 
 write a single controller and template.
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/angular-view-controller' title='An Angular Controller and its Template'>An Angular Controller and its Template</a> on Learn.co and start learning to code for free.</p>
